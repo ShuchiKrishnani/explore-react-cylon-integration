@@ -1,11 +1,13 @@
 .App {
   text-align: center;
-  margin-top: 25%
+  margin-top: 25%;
 }
+
 .btn {
-  margin: 0 10px;
+  margin: 0 10PX;
 }
-.App-intro {
+
+.APP-state {
   margin-top: 20px;
 }
 
